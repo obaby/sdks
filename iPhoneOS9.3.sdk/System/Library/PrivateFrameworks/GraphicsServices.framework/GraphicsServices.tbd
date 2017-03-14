@@ -55,7 +55,7 @@ exports:
                         _GSSendApplicationFinishedBackgroundContentFetchingEvent, _GSSendApplicationFinishedBackgroundNotificationActionEvent,
                         _GSSendApplicationSuspendedSettingsUpdatedEvent, _GSSendSimpleEvent,
                         _GSSendSystemAppEvent, _GSSendWorkspaceEvent,
-                        _GSSetTimeEventHandling, _GSSystemRootDirectory,
+                        _GSSetTimeEventHandling,_GSSystemHasCapability, _GSSystemRootDirectory,
                         _MergeFontCacheInfo, _UITrackingRunLoopMode,
                         __GSEventGetGSEventRecord, __GSEventInitializeApp,
                         __GSEventSourceIsOfType, __ZN11TFontTraitsC2EP6CGFont,
